@@ -47,19 +47,19 @@ NGINX Ingress  |  Hands-On Labs
 
 The Lab Exercises and Lab Guides are written for a `specific Kubernetes environment`.  Choose the folder that matches your hosted Lab environment, and use the resources in that folder.
 
-- OSS -  This environment is built in F5's Unified Demo Framework (UDF), and is hosted as a class instructed by F5/NGINX employees.
+- [OSS](OSS/labs/LabGuide.md) -  This environment is built in F5's Unified Demo Framework (UDF), and is hosted as a class instructed by F5/NGINX employees.
 
-- Plus - This environment is built in F5's Unified Demo Framework (UDF), and is hosted as a class instructed by F5/NGINX employees.
+- [Plus](Plus/labs/LabGuide.md) - This environment is built in F5's Unified Demo Framework (UDF), and is hosted as a class instructed by F5/NGINX employees.
 
-- Rancher - This environment would be built using a Rancher RKE2 cluster, and would be provided by the Student.
+- [Rancher](Rancher/labs/LabGuide.md) - This environment would be built using a Rancher RKE2 cluster, and would be provided by the Student.
 
-- AWS - This environment would be built using an Amazon EKS cluster, and would be provided by the Student.
+- [AWS](AWS/labs/LabGuide.md) - This environment would be built using an Amazon EKS cluster, and would be provided by the Student.
 
-- GCP - This environment would be built using a Google GKE cluster, and would be provided by the Student.
+- [GCP](GCP/labs/LabGuide.md) - This environment would be built using a Google GKE cluster, and would be provided by the Student.
 
-- Azure - This environment would be built using an Azure AKS cluster, and would be provided by the Student.
+- [Azure](Azure/labs/LabGuide.md) - This environment would be built using an Azure AKS cluster, and would be provided by the Student.
 
-- Minikube - This environment would be built using a MacOS minikube cluster, and would be provided by the Student.
+- [Minikube](Minikube/labs/LabGuide.md) - This environment would be built using a MacOS minikube cluster, and would be provided by the Student.
 
 It is important to select the proper environment and folder, as the initial setup and configuration of the clusters, repository, ingress controllers, load balancer services, and remote access instructions will differ among the environments.  `After the initial setup, most of the lab exercises are nearly identical.`
 
